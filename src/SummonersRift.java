@@ -1,5 +1,6 @@
 public class SummonersRift {
     public static void main(String[] args) {
+        ApresentacaoProjetoLolLib.animada();
         System.out.println("Bem vindo a SummonersRift");
 
         Campeao garen = new Lutador("Garen", 2000, 18, 150);
